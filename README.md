@@ -1,2 +1,3 @@
 # Tried 
-Experiments based on LLM course on net 
+Experiments based on LLM papers
+
